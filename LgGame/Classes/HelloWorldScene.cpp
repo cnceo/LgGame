@@ -53,6 +53,7 @@ bool HelloWorld::init()
 
     // add a label shows "Hello World"
     // create and initialize a label
+    //xialiguo 
     auto label = Label::createWithTTF("Hello World", "fonts/Marker Felt.ttf", 24);
     
     // position the label on the center of the screen
